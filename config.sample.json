@@ -1,0 +1,9 @@
+{
+    "email": "you@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_user": "you@gmail.com",
+    "smtp_pass": "xxxx",
+    "redis_host": "localhost",
+    "redis_port": 6379,
+    "redis_db": 1
+}
